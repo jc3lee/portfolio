@@ -4,14 +4,18 @@
 
 ### Portfolio v1 made with:
 
-- HTML
+- **HTML**
 
-- CSS & TailwindCSS
+- **CSS & TailwindCSS**
 
-- Javascript & GSAP (animations)
+- **Javascript & GSAP (animations)**
+
+P.S: I removed the form logic.
 
 &nbsp;
 
-### Designed in Figma
+# Designed in Figma
 
-P.S: I removed the form logic.
+![design](https://github.com/ljc-dev/portfolio/blob/main/design.png)
+
+P.S.2: Made some changes from this design.
