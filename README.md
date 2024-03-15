@@ -1,6 +1,4 @@
-# Portfolio
-
-**LIVE:** [https://jc3lee.github.io/portfolio/](https://jc3lee.github.io/portfolio/)
+# Old Portfolio
 
 ![card](https://github.com/ljc-dev/portfolio/blob/main/assets/social_cards/social_large_card.png)
 
